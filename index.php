@@ -56,6 +56,9 @@
       <p id="parrafo" class="lead border p-3 bg-primary"></p>
     </div>
   </div>
+
+
+  <!-- Enlaces -->
 <p id="parrafo1" class="text-danger">Para más información puede ingresar en el siguiente enlace.</p>
 <a href="https://www.google.com">Ir a google</a>
 
