@@ -28,6 +28,7 @@
     <button type="submit" class="btn btn-primary" id="botonClick">Ingresar</button>
   </form>
 </div>
+<a href="https://www.google.com">Ir a google</a>
 <script src="script.js" ></script>
 </body>
 </html>
