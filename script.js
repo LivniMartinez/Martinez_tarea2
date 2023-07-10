@@ -2,12 +2,11 @@
 // MEDIANTE SU ID
 let titulo = document.getElementById('tituloPagina');
 let boton = document.getElementById('botonClick');
-
+let id = document.getElementById('identificador');
 
 // let form = document.getElementById(formulario)
 // console.log(form)
-let id = document.getElementById('id');
-console.log(id);
+//console.log(identificador);
 
 
 //Con Selectores
