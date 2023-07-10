@@ -19,3 +19,8 @@ let enlaceGoogle = document.querySelector('a[href*="google"]')
 let enlacesSeguros = document.querySelectorAll('a[href^="https"]')
 console.log(enlaceGoogle)
 console.log(enlacesSeguros)
+
+let cajaParrafos = document.getElementById('parrafo1')
+
+//Hijos del
+
