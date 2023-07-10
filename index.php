@@ -13,7 +13,7 @@
   <h1 id="tituloPagina" class="text-primary fw-bold">FORMULARIO DE INGRESO</h1>
   <form id="formulario"> 
   <div class="mb-3 mt-3">
-      <label for="id">Identificador:</label>
+      <label for="identificador">Identificador:</label>
       <input type="number" class="form-control" id="id" placeholder="Ingrese su codigo identificador" name="id">
   </div>
   <div class="mb-3 mt-3">
