@@ -12,3 +12,7 @@ console.log(id);
 
 //Con Selectores
 let enlace = document.querySelector('a');
+let formulario = document.querySelector('formulario')
+let texto = document.querySelectorAll('.container')
+let boton_1 = document.querySelector('#botonClick')
+let enlaceGoogle = document.querySelector('a[href*="google"]')
