@@ -15,3 +15,7 @@ let formulario = document.querySelector('formulario')
 let texto = document.querySelectorAll('.container')
 let boton_1 = document.querySelector('#botonClick')
 let enlaceGoogle = document.querySelector('a[href*="google"]')
+
+let enlacesSeguros = document.querySelectorAll('a[href^="https"]')
+console.log(enlaceGoogle)
+console.log(enlacesSeguros)
