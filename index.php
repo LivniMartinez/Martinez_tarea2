@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-  <title>TAREA 2</title>
+  <title>TAREA_2 Manipulación del DOM</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -10,7 +10,7 @@
 <body>
 
 <div class="container mt-3">
-  <h2>FORMULARIO</h2>
+  <h1 id="tituloPagina">FORMULARIO DE INGRESO</h1>
   <form id="formulario"> 
   <div class="mb-3 mt-3">
       <label for="id">Identificador:</label>
@@ -25,7 +25,7 @@
       <input type="text" class="form-control" id="clases" placeholder="Ingrese clases" name="clases">
     </div>
    
-    <button type="submit" class="btn btn-primary">Ingresar</button>
+    <button type="submit" class="btn btn-primary" id="botonClick">Ingresar</button>
   </form>
 </div>
 <script src="script.js" ></script>
