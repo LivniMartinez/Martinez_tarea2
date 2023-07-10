@@ -10,7 +10,7 @@
 <body>
 
 <div class="container mt-3">
-  <h1 id="tituloPagina">FORMULARIO DE INGRESO</h1>
+  <h1 id="tituloPagina" class="text-primary fw-bold">FORMULARIO DE INGRESO</h1>
   <form id="formulario"> 
   <div class="mb-3 mt-3">
       <label for="id">Identificador:</label>
@@ -28,6 +28,8 @@
     <button type="submit" class="btn btn-primary" id="botonClick">Ingresar</button>
   </form>
 </div>
+
+<p id="parrafo1" class="text-danger">Para más información puede ingresar en el siguiente enlace.</p>
 <a href="https://www.google.com">Ir a google</a>
 <script src="script.js" ></script>
 </body>
