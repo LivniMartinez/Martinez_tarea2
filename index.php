@@ -31,6 +31,11 @@
 
 <p id="parrafo1" class="text-danger">Para más información puede ingresar en el siguiente enlace.</p>
 <a href="https://www.google.com">Ir a google</a>
+
+<p id="parrafo2" class="text-danger">Siguenos en redes sociales.</p>
+<a href="https://www.facebook.com">Ir a facebook</a>
+<a href="https://www.instagram.com">Ir a Instagram</a>
+
 <script src="script.js" ></script>
 </body>
 </html>
