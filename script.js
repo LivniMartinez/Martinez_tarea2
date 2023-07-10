@@ -11,3 +11,4 @@ console.log(id);
 
 
 //Con Selectores
+let enlace = document.querySelector('a');
